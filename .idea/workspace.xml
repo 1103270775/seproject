@@ -162,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
     <option name="y" value="-10" />
     <option name="width" value="979" />
@@ -210,7 +210,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/junitTest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -349,7 +349,7 @@
       <workItem from="1615364539280" duration="2856000" />
       <workItem from="1615895113797" duration="478000" />
       <workItem from="1615946788093" duration="5009000" />
-      <workItem from="1615957400967" duration="2259000" />
+      <workItem from="1615957400967" duration="2503000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1615959562477</created>
@@ -394,7 +394,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15596000" />
+    <option name="totallyTimeSpent" value="15840000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -408,7 +408,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932525" visible="true" weight="0.2671533" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932525" visible="true" weight="0.2671533" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5518248" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
