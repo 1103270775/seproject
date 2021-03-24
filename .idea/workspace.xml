@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="22c206aa-7d76-4b25-acef-d75476eb9ced" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test2/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test2/Configuration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test2/ValueParseException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test2/ValueParseException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test2/ConfigurationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test2/ConfigurationTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,7 +19,7 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="237" />
+    <option name="myElementSize" value="200" />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -32,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test2/Configuration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="113" column="80" selection-start-line="113" selection-start-column="80" selection-end-line="113" selection-end-column="80" />
+            <state relative-caret-position="1036">
+              <caret line="120" column="5" lean-forward="true" selection-start-line="106" selection-start-column="3" selection-end-line="120" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -41,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test2/ConfigurationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1302">
-              <caret line="108" column="53" lean-forward="true" selection-start-line="108" selection-start-column="53" selection-end-line="108" selection-end-column="53" />
+            <state relative-caret-position="2773">
+              <caret line="203" column="1" lean-forward="true" selection-start-line="203" selection-start-column="1" selection-end-line="203" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -53,8 +50,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test2/ValueParseException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+            <state relative-caret-position="215">
+              <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -108,7 +105,213 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="ctgu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="ctgu" type="462c0819:PsiDirectoryNode" />
+              <item name="Test2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="ctgu" type="462c0819:PsiDirectoryNode" />
+              <item name="Test2" type="462c0819:PsiDirectoryNode" />
+              <item name="Configuration" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="ctgu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="ctgu" type="462c0819:PsiDirectoryNode" />
+              <item name="Test2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="ctgu" type="462c0819:PsiDirectoryNode" />
+              <item name="Test2" type="462c0819:PsiDirectoryNode" />
+              <item name="ConfigurationTest" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="文档" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="Throwable" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayList" type="1a9f42e2:ClassTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
@@ -157,7 +360,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ConfigurationTest">
+  <component name="RunManager" selected="JUnit.ConfigurationTest.throw_DefaultValue_Date_when_key_not_exist (1)">
     <configuration name="ConfigurationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mySeHomework" />
       <extension name="coverage">
@@ -239,11 +442,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ConfigurationTest" />
-        <item itemvalue="JUnit.ConfigurationTest.throw_ValueParseException_when_key_not_exist" />
         <item itemvalue="JUnit.ConfigurationTest.throw_DefaultValue_Date_when_key_not_exist (1)" />
         <item itemvalue="JUnit.ConfigurationTest.throw_DefaultValue_Integer_when_key_not_exist" />
         <item itemvalue="JUnit.ConfigurationTest.throw_DefaultValue_when_key_not_exist (1)" />
+        <item itemvalue="JUnit.ConfigurationTest.throw_ValueParseException_when_key_not_exist" />
+        <item itemvalue="JUnit.ConfigurationTest" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +471,7 @@
       <workItem from="1616553533027" duration="26000" />
       <workItem from="1616553634323" duration="20000" />
       <workItem from="1616553690066" duration="14017000" />
-      <workItem from="1616580282591" duration="1513000" />
+      <workItem from="1616580282591" duration="5847000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1615959562477</created>
@@ -298,43 +501,57 @@
       <option name="project" value="LOCAL" />
       <updated>1616581088323</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="实验二代码规范化，报错功能统一测试">
+      <created>1616581850354</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616581850354</updated>
+    </task>
+    <task id="LOCAL-00006" summary="实验二部分代码测试用例修改">
+      <created>1616589044778</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1616589044778</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ConfigurationTest_throw_ValueParseException_when_key_not_exist - 2021.03.24 at 18h 06m 34s.xml">
-      <configuration name="ConfigurationTest.throw_ValueParseException_when_key_not_exist" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ConfigurationTest_throw_ValueParseException_when_key_not_exist - 2021.03.24 at 18h 10m 54s.xml">
-      <configuration name="ConfigurationTest.throw_ValueParseException_when_key_not_exist" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ConfigurationTest_throw_ValueParseException_when_key_not_exist - 2021.03.24 at 18h 11m 37s.xml">
-      <configuration name="ConfigurationTest.throw_ValueParseException_when_key_not_exist" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ConfigurationTest_throw_DefaultValue_when_key_not_exist_(1) - 2021.03.24 at 18h 15m 00s.xml">
-      <configuration name="ConfigurationTest.throw_DefaultValue_when_key_not_exist (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ConfigurationTest - 2021.03.24 at 18h 16m 25s.xml">
+    <history-entry file="ConfigurationTest - 2021.03.24 at 18h 30m 20s.xml">
       <configuration name="ConfigurationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConfigurationTest_throw_ValueParseException_when_key_not_exist - 2021.03.24 at 18h 20m 14s.xml">
+    <history-entry file="ConfigurationTest_throw_ValueParseException_when_key_not_exist - 2021.03.24 at 19h 38m 48s.xml">
       <configuration name="ConfigurationTest.throw_ValueParseException_when_key_not_exist" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConfigurationTest_throw_ValueParseException_when_key_not_exist - 2021.03.24 at 18h 21m 04s.xml">
+    <history-entry file="ConfigurationTest_throw_ValueParseException_when_key_not_exist - 2021.03.24 at 19h 46m 14s.xml">
       <configuration name="ConfigurationTest.throw_ValueParseException_when_key_not_exist" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConfigurationTest_throw_DefaultValue_Integer_when_key_not_exist - 2021.03.24 at 18h 23m 02s.xml">
+    <history-entry file="ConfigurationTest_throw_DefaultValue_when_key_not_exist_(1) - 2021.03.24 at 19h 47m 17s.xml">
+      <configuration name="ConfigurationTest.throw_DefaultValue_when_key_not_exist (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConfigurationTest_throw_DefaultValue_when_key_not_exist_(1) - 2021.03.24 at 20h 06m 58s.xml">
+      <configuration name="ConfigurationTest.throw_DefaultValue_when_key_not_exist (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConfigurationTest_throw_DefaultValue_when_key_not_exist_(1) - 2021.03.24 at 20h 07m 17s.xml">
+      <configuration name="ConfigurationTest.throw_DefaultValue_when_key_not_exist (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConfigurationTest_throw_DefaultValue_Integer_when_key_not_exist - 2021.03.24 at 20h 17m 03s.xml">
       <configuration name="ConfigurationTest.throw_DefaultValue_Integer_when_key_not_exist" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConfigurationTest_throw_ValueParseException_when_key_not_exist - 2021.03.24 at 18h 26m 41s.xml">
-      <configuration name="ConfigurationTest.throw_ValueParseException_when_key_not_exist" configurationId="JUnit" />
+    <history-entry file="ConfigurationTest_throw_DefaultValue_Integer_when_key_not_exist - 2021.03.24 at 20h 17m 33s.xml">
+      <configuration name="ConfigurationTest.throw_DefaultValue_Integer_when_key_not_exist" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConfigurationTest_throw_ValueParseException_when_key_not_exist - 2021.03.24 at 18h 26m 59s.xml">
-      <configuration name="ConfigurationTest.throw_ValueParseException_when_key_not_exist" configurationId="JUnit" />
+    <history-entry file="ConfigurationTest_throw_DefaultValue_Date_when_key_not_exist_(1) - 2021.03.24 at 20h 20m 10s.xml">
+      <configuration name="ConfigurationTest.throw_DefaultValue_Date_when_key_not_exist (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConfigurationTest_throw_DefaultValue_Date_when_key_not_exist_(1) - 2021.03.24 at 20h 24m 22s.xml">
+      <configuration name="ConfigurationTest.throw_DefaultValue_Date_when_key_not_exist (1)" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32416000" />
+    <option name="totallyTimeSpent" value="36750000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -349,7 +566,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932525" visible="true" weight="0.40729928" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932525" visible="true" weight="0.48759124" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5518248" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -375,7 +592,7 @@
       <window_info anchor="right" id="Database" order="9" />
       <window_info anchor="right" id="Palette&#9;" order="10" />
       <window_info anchor="right" id="Theme Preview" order="11" />
-      <window_info anchor="right" id="Coverage" order="12" side_tool="true" weight="0.2651822" />
+      <window_info anchor="right" id="Coverage" order="12" side_tool="true" weight="0.39338732" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" weight="0.20580296" />
@@ -423,20 +640,34 @@
     <MESSAGE value="test" />
     <MESSAGE value="md描述修改" />
     <MESSAGE value="实验二上传" />
-    <option name="LAST_COMMIT_MESSAGE" value="实验二上传" />
+    <MESSAGE value="实验二代码规范化，报错功能统一测试" />
+    <MESSAGE value="实验二部分代码测试用例修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="实验二部分代码测试用例修改" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/seproject$NextDateTest__1_.ic" NAME="NextDateTest (1) Coverage Results" MODIFIED="1615958587781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>cn.edu.ctgu.junitTest.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/seproject$ConfigurationTest_throw_DefaultValue_Date_when_key_not_exist__1_.ic" NAME="ConfigurationTest.throw_DefaultValue_Date_when_key_not_exist (1) Coverage Results" MODIFIED="1616588661078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.edu.ctgu.Test2.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/seproject$NextDate.ic" NAME="NextDate Coverage Results" MODIFIED="1615364354494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>mySeHomework.homework1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/seproject$ConfigurationTest_throw_DefaultValue_Integer_when_key_not_exist.ic" NAME="ConfigurationTest.throw_DefaultValue_Integer_when_key_not_exist Coverage Results" MODIFIED="1616588251996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.edu.ctgu.Test2.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/seproject$NextDateTest.ic" NAME="NextDateTest Coverage Results" MODIFIED="1615365040680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>mySeHomework.homework1.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/seproject$CommissionTest.ic" NAME="CommissionTest Coverage Results" MODIFIED="1615959107427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>cn.edu.ctgu.junitTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/seproject$ConfigurationTest_throw_ValueParseException_when_key_not_exist.ic" NAME="ConfigurationTest.throw_ValueParseException_when_key_not_exist Coverage Results" MODIFIED="1616586372164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.edu.ctgu.Test2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/seproject$ConfigurationTest_throw_DefaultValue_when_key_not_exist__1_.ic" NAME="ConfigurationTest.throw_DefaultValue_when_key_not_exist (1) Coverage Results" MODIFIED="1616587635779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.edu.ctgu.Test2.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/seproject$junitTest_.ic" NAME="junitTest; Coverage Results" MODIFIED="1615364885081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>mySeHomework.homework1.*</FILTER>
@@ -611,24 +842,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test2/ValueParseException.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test2/Configuration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+        <state relative-caret-position="1036">
+          <caret line="120" column="5" lean-forward="true" selection-start-line="106" selection-start-column="3" selection-end-line="120" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test2/Configuration.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test2/ValueParseException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="113" column="80" selection-start-line="113" selection-start-column="80" selection-end-line="113" selection-end-column="80" />
+        <state relative-caret-position="215">
+          <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="77" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test2/ConfigurationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1302">
-          <caret line="108" column="53" lean-forward="true" selection-start-line="108" selection-start-column="53" selection-end-line="108" selection-end-column="53" />
+        <state relative-caret-position="2773">
+          <caret line="203" column="1" lean-forward="true" selection-start-line="203" selection-start-column="1" selection-end-line="203" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
