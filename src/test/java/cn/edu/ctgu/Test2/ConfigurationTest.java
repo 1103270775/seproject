@@ -64,7 +64,7 @@ class ConfigurationTest {
 
     @Test
     @DisplayName("当key不存在的时候报错/返回默认值")
-    void throw_ValueParseException_when_key_not_exist() throws IOException {
+    void throw_ValueParseException_when_key_not_exist() throws IOException, ParseException {
         // arrange
         Path path = tempDir.resolve("app.conf");
         Files.write(path, Arrays.asList("ea=false"));
@@ -88,12 +88,15 @@ class ConfigurationTest {
             conf.getBooleanWithDefault("notexist",true);
         });
 
-//        Throwable throwable_Integer_Default = assertThrows(ValueParseException.class, () ->{
-//            conf.getInt("note",123);
-//        });
+        Throwable throwable_Integer_Default = assertThrows(ValueParseException.class, () ->{
+            conf.getInt("note",123);
+        });
 
+
+        SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
+        Date DefaultDate = sdf.parse("2000-01-01");
         Throwable throwable_Date_Default = assertThrows(ValueParseException.class, () ->{
-            conf.getBooleanWithDefault("notexist",true);
+            conf.getDate("notexist",DefaultDate);
         });
 
         // assert
@@ -101,8 +104,9 @@ class ConfigurationTest {
         assertAll(
                 //验证是否能正确捕获异常
                 () -> assertEquals("键值不存在",throwable.getMessage()),
-                () -> assertEquals("true",throwable_Boolean_Default.getMessage())
-//                () -> assertEquals("123",throwable_Integer_Default.getMessage()),
+                () -> assertEquals("true",throwable_Boolean_Default.getMessage()),
+                () -> assertEquals("123",throwable_Integer_Default.getMessage()),
+                () -> assertEquals("Sat Jan 01 00:00:00 CST 2000",throwable_Date_Default.getMessage())
 
 
         );
@@ -136,11 +140,11 @@ class ConfigurationTest {
     }
 
     @ParameterizedTest
-    @DisplayName("返回指定键的整数值，若不存在则返回缺省值")
+    @DisplayName("返回指定键的整数值")
     @CsvSource({
             "ea,9,10",
             "closeable,10,100",
-            "notexist,,314"
+            "notexist,314,314"
     })
     void throw_DefaultValue_Integer_when_key_not_exist(String Key,Integer Value,Integer Default)throws IOException{
 
@@ -153,21 +157,21 @@ class ConfigurationTest {
         //解析配置文件
         conf.fromFile(path.toFile());
 //        assertEquals(conf.getBooleanWithDefault("notexist",Default),Default);
-        if(!Key.equals("notexist")) {
+//        if(!Key.equals("notexist")) {
             assertEquals(conf.getInt(Key,Default),Value);
 //            System.out.println(Value);
-        }
-        else{
-            assertEquals(conf.getInt(Key,Default),Default);
-        }
+//        }
+//        else{
+//            assertEquals(conf.getInt(Key,Default),Default);
+//        }
     }
 
     @ParameterizedTest
-    @DisplayName("返回指定键的日期值，若不存在则返回缺省值")
+    @DisplayName("返回指定键的日期值")
     @CsvSource({
             "ea,2018-11-11,2000-01-01",
-            "closeable,2019-11-11,2000-01-01",
-            "notexist,,2000-01-01"
+            "closeable,2019-11-11,2000-01-01"
+
     })
     void throw_DefaultValue_Date_when_key_not_exist(String Key,String Value, String Default) throws IOException, ParseException {
 
@@ -183,12 +187,12 @@ class ConfigurationTest {
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
         Date DefaultDate = sdf.parse(Default);
 
-        if(!Key.equals("notexist")) {
+//        if(!Key.equals("notexist")) {
             Date ValueDate = sdf.parse(Value);
             assertEquals(conf.getDate(Key,DefaultDate),ValueDate);
-        }
-        else{
-            assertEquals(conf.getDate(Key,DefaultDate),DefaultDate);
-        }
+//        }
+//        else{
+//            assertEquals(conf.getDate(Key,DefaultDate),DefaultDate);
+//        }
     }
 }

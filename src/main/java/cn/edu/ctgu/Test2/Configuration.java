@@ -93,12 +93,11 @@ public class Configuration {
      */
     public Integer getInt(String key, int defaultValue){
         //props.getProperty(key)返回的null为String的null
-//        System.out.println(props.getProperty(key));
-        if(!"null".equals(props.getProperty(key))){
+
+        if(!"null".equals(props.getProperty(key)) && props.getProperty(key)!=null){
             return Integer.parseInt(props.getProperty(key));
         }
-        return defaultValue;
-//        throw new ValueParseException(defaultValue);
+        throw new ValueParseException(defaultValue);
 
 
     }
@@ -112,11 +111,10 @@ public class Configuration {
      */
     public Date getDate(String key, Date defaultValue) throws ParseException {
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
-        if(!"null".equals(props.getProperty(key))){
+        if(!"null".equals(props.getProperty(key))&& props.getProperty(key)!=null){
             return sdf.parse(props.getProperty(key));
-        }else{
-            return  defaultValue;
         }
+        throw new ValueParseException(defaultValue);
 
     }
 }
