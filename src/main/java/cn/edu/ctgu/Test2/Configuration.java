@@ -43,7 +43,9 @@ public class Configuration {
     * @return value
     */
     public String getProp(String key) {
-        return props.getProperty(key);
+        if(!"null".equals(props.getProperty(key)) && props.getProperty(key)!=null)
+            return props.getProperty(key);
+        throw new ValueParseException("键值不存在");
     }
 
     /**
