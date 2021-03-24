@@ -1,4 +1,4 @@
-package cn.edu.ctgu.junitTest;
+package cn.edu.ctgu.Test1;
 
 public class Commission {
     public String classify(int lockNum,int stockNum,int barrelNum){

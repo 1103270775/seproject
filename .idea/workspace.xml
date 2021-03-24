@@ -4,7 +4,18 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22c206aa-7d76-4b25-acef-d75476eb9ced" name="Default Changelist" comment="" />
+    <list default="true" id="22c206aa-7d76-4b25-acef-d75476eb9ced" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test2/Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test2/ValueParseException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test2/ConfigurationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/junitTest/Commission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test1/Commission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/junitTest/NextDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test1/NextDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/junitTest/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test1/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/junitTest/CommissionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test1/CommissionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/junitTest/NextDateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test1/NextDateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/junitTest/TriangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test1/TriangleTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,52 +35,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="323">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/junitTest/Commission.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/cn/edu/ctgu/junitTest/CommissionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resource/naiveTestTriangle.csv">
-          <provider selected="true" editor-type-id="csv-text-editor" />
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/junitTest/NextDate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="13" selection-end-line="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/cn/edu/ctgu/junitTest/NextDateTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test2/Configuration.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="12" lean-forward="true" selection-end-line="74" selection-end-column="1" />
+              <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test2/ConfigurationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-952">
+              <caret line="65" column="36" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,51 +57,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/junitTest/Triangle.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test2/ValueParseException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="259">
+              <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/cn/edu/ctgu/junitTest/TriangleTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="44" column="5" lean-forward="true" selection-end-line="149" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resource/三角形一般边界测试用例.csv">
-          <provider selected="true" editor-type-id="csv-text-editor" />
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resource/三角形健壮性最坏情况测试用例.csv">
-          <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="56">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-            </state>
-          </provider>
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resource/三角形最坏情况测试用例.csv">
-          <provider selected="true" editor-type-id="csv-text-editor" />
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
           </provider>
         </entry>
       </file>
@@ -138,6 +77,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -152,21 +94,20 @@
         <option value="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/junitTest/NextDateTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/junitTest/Triangle.java" />
         <option value="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/junitTest/TriangleTest.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test1/CommissionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test2/ValueParseException.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test2/ConfigurationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test2/Configuration.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
     <option name="y" value="-10" />
-    <option name="width" value="979" />
-    <option name="height" value="1049" />
+    <option name="width" value="980" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -174,8 +115,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,13 +127,194 @@
             <path>
               <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="seproject" type="462c0819:PsiDirectoryNode" />
-              <item name="文档" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="ctgu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="ctgu" type="462c0819:PsiDirectoryNode" />
+              <item name="Test2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="ctgu" type="462c0819:PsiDirectoryNode" />
+              <item name="Test2" type="462c0819:PsiDirectoryNode" />
+              <item name="Configuration" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="ctgu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="ctgu" type="462c0819:PsiDirectoryNode" />
+              <item name="Test2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="ctgu" type="462c0819:PsiDirectoryNode" />
+              <item name="Test2" type="462c0819:PsiDirectoryNode" />
+              <item name="ConfigurationTest" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="seproject" type="462c0819:PsiDirectoryNode" />
               <item name="文档" type="462c0819:PsiDirectoryNode" />
-              <item name="实验一" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="Throwable" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayList" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
@@ -220,17 +342,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="cn.edu.ctgu.Test2" />
       <recent name="cn.edu.ctgu.junitTest" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\计算机学习汇总\大三课程\软件测试\seproject\src\test\resource" />
+      <recent name="E:\计算机学习汇总\大三课程\软件测试\seproject\文档\实验一" />
       <recent name="E:\计算机学习汇总\大三课程\软件测试\seproject\src\test\java\cn\edu\ctgu\junitTest" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\计算机学习汇总\大三课程\软件测试\seproject\src\test\resource" />
-      <recent name="E:\计算机学习汇总\大三课程\软件测试\seproject\文档\实验一" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\计算机学习汇总\大三课程\软件测试\seproject\src\test\java\cn\edu\ctgu\junitTest" />
     </key>
   </component>
@@ -246,79 +369,81 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CommissionTest">
-    <configuration name="CommissionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ConfigurationTest">
+    <configuration name="ConfigurationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mySeHomework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.edu.ctgu.junitTest.*" />
+          <option name="PATTERN" value="cn.edu.ctgu.Test2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.edu.ctgu.junitTest" />
-      <option name="MAIN_CLASS_NAME" value="cn.edu.ctgu.junitTest.CommissionTest" />
+      <option name="PACKAGE_NAME" value="cn.edu.ctgu.Test2" />
+      <option name="MAIN_CLASS_NAME" value="cn.edu.ctgu.Test2.ConfigurationTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextDateTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConfigurationTest.throw_DefaultValue_Date_when_key_not_exist (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mySeHomework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.edu.ctgu.junitTest.*" />
+          <option name="PATTERN" value="cn.edu.ctgu.Test2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.edu.ctgu.junitTest" />
-      <option name="MAIN_CLASS_NAME" value="cn.edu.ctgu.junitTest.NextDateTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NextDateTest.equallaterialNextDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mySeHomework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.edu.ctgu.junitTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.edu.ctgu.junitTest" />
-      <option name="MAIN_CLASS_NAME" value="cn.edu.ctgu.junitTest.NextDateTest" />
-      <option name="METHOD_NAME" value="equallaterialNextDate" />
+      <option name="PACKAGE_NAME" value="cn.edu.ctgu.Test2" />
+      <option name="MAIN_CLASS_NAME" value="cn.edu.ctgu.Test2.ConfigurationTest" />
+      <option name="METHOD_NAME" value="throw_DefaultValue_Date_when_key_not_exist(java.lang.String,java.lang.String,java.lang.String)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConfigurationTest.throw_DefaultValue_Integer_when_key_not_exist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mySeHomework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.edu.ctgu.junitTest.*" />
+          <option name="PATTERN" value="cn.edu.ctgu.Test2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.edu.ctgu.junitTest" />
-      <option name="MAIN_CLASS_NAME" value="cn.edu.ctgu.junitTest.TriangleTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="cn.edu.ctgu.Test2" />
+      <option name="MAIN_CLASS_NAME" value="cn.edu.ctgu.Test2.ConfigurationTest" />
+      <option name="METHOD_NAME" value="throw_DefaultValue_Integer_when_key_not_exist(java.lang.String,java.lang.Integer,java.lang.Integer)" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleTest.testWithCsvFileSource_Bad" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConfigurationTest.throw_DefaultValue_when_key_not_exist (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mySeHomework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.edu.ctgu.junitTest.*" />
+          <option name="PATTERN" value="cn.edu.ctgu.Test2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.edu.ctgu.junitTest" />
-      <option name="MAIN_CLASS_NAME" value="cn.edu.ctgu.junitTest.TriangleTest" />
-      <option name="METHOD_NAME" value="testWithCsvFileSource_Bad(int,int,int,int,java.lang.String)" />
+      <option name="PACKAGE_NAME" value="cn.edu.ctgu.Test2" />
+      <option name="MAIN_CLASS_NAME" value="cn.edu.ctgu.Test2.ConfigurationTest" />
+      <option name="METHOD_NAME" value="throw_DefaultValue_when_key_not_exist(java.lang.String,java.lang.Boolean,java.lang.Boolean)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigurationTest.throw_ValueParseException_when_key_not_exist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mySeHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.ctgu.Test2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.edu.ctgu.Test2" />
+      <option name="MAIN_CLASS_NAME" value="cn.edu.ctgu.Test2.ConfigurationTest" />
+      <option name="METHOD_NAME" value="throw_ValueParseException_when_key_not_exist" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -326,11 +451,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CommissionTest" />
-        <item itemvalue="JUnit.NextDateTest (1)" />
-        <item itemvalue="JUnit.TriangleTest" />
-        <item itemvalue="JUnit.NextDateTest.equallaterialNextDate" />
-        <item itemvalue="JUnit.TriangleTest.testWithCsvFileSource_Bad" />
+        <item itemvalue="JUnit.ConfigurationTest" />
+        <item itemvalue="JUnit.ConfigurationTest.throw_DefaultValue_when_key_not_exist (1)" />
+        <item itemvalue="JUnit.ConfigurationTest.throw_ValueParseException_when_key_not_exist" />
+        <item itemvalue="JUnit.ConfigurationTest.throw_DefaultValue_Integer_when_key_not_exist" />
+        <item itemvalue="JUnit.ConfigurationTest.throw_DefaultValue_Date_when_key_not_exist (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +474,13 @@
       <workItem from="1615364539280" duration="2856000" />
       <workItem from="1615895113797" duration="478000" />
       <workItem from="1615946788093" duration="5009000" />
-      <workItem from="1615957400967" duration="2503000" />
+      <workItem from="1615957400967" duration="3203000" />
+      <workItem from="1615983631438" duration="209000" />
+      <workItem from="1616551937770" duration="91000" />
+      <workItem from="1616553533027" duration="26000" />
+      <workItem from="1616553634323" duration="20000" />
+      <workItem from="1616553690066" duration="14017000" />
+      <workItem from="1616580282591" duration="750000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1615959562477</created>
@@ -358,48 +489,62 @@
       <option name="project" value="LOCAL" />
       <updated>1615959562478</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1615960104739</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615960104739</updated>
+    </task>
+    <task id="LOCAL-00003" summary="md描述修改">
+      <created>1615960472131</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615960472131</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TriangleTest_testWithCsvFileSource_Bad - 2021.03.17 at 11h 20m 28s.xml">
-      <configuration name="TriangleTest.testWithCsvFileSource_Bad" configurationId="JUnit" />
+    <history-entry file="ConfigurationTest_throw_ValueParseException_when_key_not_exist - 2021.03.24 at 17h 53m 54s.xml">
+      <configuration name="ConfigurationTest.throw_ValueParseException_when_key_not_exist" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTest - 2021.03.17 at 11h 20m 38s.xml">
-      <configuration name="TriangleTest" configurationId="JUnit" />
+    <history-entry file="ConfigurationTest_throw_DefaultValue_Integer_when_key_not_exist - 2021.03.24 at 17h 56m 38s.xml">
+      <configuration name="ConfigurationTest.throw_DefaultValue_Integer_when_key_not_exist" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTest - 2021.03.17 at 11h 20m 56s.xml">
-      <configuration name="TriangleTest" configurationId="JUnit" />
+    <history-entry file="ConfigurationTest_throw_ValueParseException_when_key_not_exist - 2021.03.24 at 17h 58m 18s.xml">
+      <configuration name="ConfigurationTest.throw_ValueParseException_when_key_not_exist" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NextDateTest_equallaterialNextDate - 2021.03.17 at 11h 24m 22s.xml">
-      <configuration name="NextDateTest.equallaterialNextDate" configurationId="JUnit" />
+    <history-entry file="ConfigurationTest_throw_ValueParseException_when_key_not_exist - 2021.03.24 at 17h 59m 59s.xml">
+      <configuration name="ConfigurationTest.throw_ValueParseException_when_key_not_exist" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTest - 2021.03.17 at 13h 15m 19s.xml">
-      <configuration name="TriangleTest" configurationId="JUnit" />
+    <history-entry file="ConfigurationTest_throw_ValueParseException_when_key_not_exist - 2021.03.24 at 18h 00m 53s.xml">
+      <configuration name="ConfigurationTest.throw_ValueParseException_when_key_not_exist" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTest - 2021.03.17 at 13h 15m 52s.xml">
-      <configuration name="TriangleTest" configurationId="JUnit" />
+    <history-entry file="ConfigurationTest_throw_ValueParseException_when_key_not_exist - 2021.03.24 at 18h 02m 15s.xml">
+      <configuration name="ConfigurationTest.throw_ValueParseException_when_key_not_exist" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTest - 2021.03.17 at 13h 18m 17s.xml">
-      <configuration name="TriangleTest" configurationId="JUnit" />
+    <history-entry file="ConfigurationTest_throw_ValueParseException_when_key_not_exist - 2021.03.24 at 18h 05m 30s.xml">
+      <configuration name="ConfigurationTest.throw_ValueParseException_when_key_not_exist" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TriangleTest - 2021.03.17 at 13h 18m 52s.xml">
-      <configuration name="TriangleTest" configurationId="JUnit" />
+    <history-entry file="ConfigurationTest_throw_ValueParseException_when_key_not_exist - 2021.03.24 at 18h 06m 34s.xml">
+      <configuration name="ConfigurationTest.throw_ValueParseException_when_key_not_exist" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NextDateTest_(1) - 2021.03.17 at 13h 23m 09s.xml">
-      <configuration name="NextDateTest (1)" configurationId="JUnit" />
+    <history-entry file="ConfigurationTest_throw_ValueParseException_when_key_not_exist - 2021.03.24 at 18h 10m 54s.xml">
+      <configuration name="ConfigurationTest.throw_ValueParseException_when_key_not_exist" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CommissionTest - 2021.03.17 at 13h 31m 48s.xml">
-      <configuration name="CommissionTest" configurationId="JUnit" />
+    <history-entry file="ConfigurationTest_throw_ValueParseException_when_key_not_exist - 2021.03.24 at 18h 11m 37s.xml">
+      <configuration name="ConfigurationTest.throw_ValueParseException_when_key_not_exist" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15840000" />
+    <option name="totallyTimeSpent" value="31673000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20580296" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3191633" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -407,8 +552,8 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932525" visible="true" weight="0.2671533" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932525" visible="true" weight="0.40729928" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5518248" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -437,7 +582,7 @@
       <window_info anchor="right" id="Coverage" order="12" side_tool="true" weight="0.2651822" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.64912283" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20580296" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -446,15 +591,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39854014" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.5518248" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932525" visible="true" weight="0.5649635" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5518248" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Analysis" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5006748" side_tool="true" weight="0.2671533" />
       <window_info anchor="bottom" id="Statistic" order="11" weight="0.43357664" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
@@ -472,7 +617,7 @@
       <window_info anchor="right" id="Database" order="9" />
       <window_info anchor="right" id="Palette&#9;" order="10" />
       <window_info anchor="right" id="Theme Preview" order="11" />
-      <window_info anchor="right" id="Coverage" order="12" side_tool="true" weight="0.4345479" />
+      <window_info anchor="right" id="Coverage" order="12" side_tool="true" weight="0.2651822" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,7 +625,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="md描述修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="md描述修改" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/seproject$NextDateTest__1_.ic" NAME="NextDateTest (1) Coverage Results" MODIFIED="1615958587781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -522,89 +668,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resource/三角形健壮测试用例 (1).csv" />
     <entry file="file://$PROJECT_DIR$/src/test/resource/三角形健壮测试用例.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resource/三角形弱一般等价类测试用例.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resource/三角形最坏情况测试用例.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test1/Commission.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resource/naiveTestTriangle.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resource/三角形一般边界测试用例.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
       <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="15" />
-        </state>
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resource/三角形健壮性最坏情况测试用例.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/junitTest/Triangle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test1/NextDate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/edu/ctgu/junitTest/TriangleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="44" column="5" lean-forward="true" selection-end-line="149" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/edu/ctgu/junitTest/NextDateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" lean-forward="true" selection-end-line="74" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/junitTest/NextDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="280">
           <caret line="13" selection-end-line="38" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -612,20 +716,125 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/edu/ctgu/junitTest/CommissionTest.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="84">
+            <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test1/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="420">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resource/三角形一般边界测试用例.csv">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resource/三角形健壮性最坏情况测试用例.csv">
+      <provider editor-type-id="text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test1/NextDateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="51" column="33" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/junitTest/Commission.java">
+    <entry file="jar://$APPLICATION_HOME_DIR$/jdk1.8.0_31/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        <state relative-caret-position="380">
+          <caret line="1248" selection-start-line="1248" selection-end-line="1248" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test1/TriangleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="93" column="47" selection-start-line="93" selection-start-column="47" selection-end-line="93" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test1/CommissionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/jdk1.8.0_31/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="932">
+          <caret line="375" column="18" selection-start-line="375" selection-start-column="18" selection-end-line="375" selection-end-column="18" />
+          <folding>
+            <element signature="e#15711#15712#0" expanded="true" />
+            <element signature="e#15747#15748#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test2/ValueParseException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test2/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test2/ConfigurationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-952">
+          <caret line="65" column="36" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

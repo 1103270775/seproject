@@ -1,7 +1,7 @@
-package cn.edu.ctgu.junitTest;
+package cn.edu.ctgu.Test1;
 /**
  * @Title: Triangle.java
- * @Package cn.edu.ctgu.junitTest
+ * @Package cn.edu.ctgu.Test1
  * @Description: 测试三角形是否为等边、等腰或者是不等边的
  * @author tiger
  * @version V1.0

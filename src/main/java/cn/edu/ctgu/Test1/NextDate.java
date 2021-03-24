@@ -1,4 +1,4 @@
-package cn.edu.ctgu.junitTest;
+package cn.edu.ctgu.Test1;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
