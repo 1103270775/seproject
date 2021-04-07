@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22c206aa-7d76-4b25-acef-d75476eb9ced" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test3/TwoInteger_subtract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test3/TwoInteger_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test3/TwoIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test3/TwoInteger_subtractTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test3/TwoInteger_sumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test3/TwoIntegersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test4/PremiumCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test4/PremiumCalculatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,7 +21,7 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="200" />
+    <option name="myElementSize" value="269" />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -33,19 +29,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="323">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test2/Configuration.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test4/PremiumCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3136">
-              <caret line="120" column="5" selection-start-line="106" selection-start-column="3" selection-end-line="120" selection-end-column="5" />
+            <state relative-caret-position="302">
+              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test2/ConfigurationTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test4/PremiumCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5096">
-              <caret line="197" column="24" selection-start-line="197" selection-start-column="12" selection-end-line="197" selection-end-column="24" />
+            <state relative-caret-position="246">
+              <caret line="83" column="2" lean-forward="true" selection-end-line="99" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,19 +53,19 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="112">
-                <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+              <first_editor relative-caret-position="56">
+                <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test3/TwoInteger_subtract.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            <state relative-caret-position="336">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -77,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test3/TwoInteger_subtractTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1708">
-              <caret line="67" column="36" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
+            <state relative-caret-position="183">
+              <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,8 +85,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test3/TwoInteger_sum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+            <state relative-caret-position="56">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -98,8 +94,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test3/TwoInteger_sumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1848">
-              <caret line="72" column="5" selection-start-line="14" selection-start-column="3" selection-end-line="72" selection-end-column="5" />
+            <state relative-caret-position="1680">
+              <caret line="66" column="12" selection-end-line="74" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,8 +106,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test3/TwoIntegers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="29" />
+            <state relative-caret-position="336">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -119,8 +115,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test3/TwoIntegersTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+            <state relative-caret-position="532">
+              <caret line="70" column="5" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="70" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -171,21 +167,24 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test2/ValueParseException.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test2/Configuration.java" />
         <option value="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test2/ConfigurationTest.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test3/TwoIntegers.java" />
         <option value="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test3/TwoIntegersTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test3/TwoInteger_sum.java" />
         <option value="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test3/TwoInteger_sumTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test3/TwoInteger_subtract.java" />
         <option value="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test3/TwoInteger_subtractTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test3/TwoInteger_sum.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test4/PreminumCaculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test4/PremiumCalculator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test4/PremiumCalculatorTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
-    <option name="width" value="979" />
-    <option name="height" value="1049" />
+    <option name="width" value="980" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -193,6 +192,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -261,6 +261,29 @@
               <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="seproject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="ctgu" type="462c0819:PsiDirectoryNode" />
+              <item name="Test4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="ctgu" type="462c0819:PsiDirectoryNode" />
+              <item name="Test4" type="462c0819:PsiDirectoryNode" />
+              <item name="PremiumCalculator" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -311,69 +334,35 @@
             <path>
               <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="ctgu" type="462c0819:PsiDirectoryNode" />
+              <item name="Test4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="ctgu" type="462c0819:PsiDirectoryNode" />
+              <item name="Test4" type="462c0819:PsiDirectoryNode" />
+              <item name="PremiumCalculatorTest" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seproject" type="462c0819:PsiDirectoryNode" />
               <item name="文档" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
-              <item name="Throwable" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="ArrayList" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -396,6 +385,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="cn.edu.ctgu.Test4" />
       <recent name="cn.edu.ctgu.Test3" />
       <recent name="cn.edu.ctgu.Test2" />
       <recent name="cn.edu.ctgu.junitTest" />
@@ -424,7 +414,54 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TwoInteger_subtractTest">
+  <component name="RunManager" selected="JUnit.PremiumCalculatorTest">
+    <configuration name="PremiumCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mySeHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.ctgu.Test4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.edu.ctgu.Test4" />
+      <option name="MAIN_CLASS_NAME" value="cn.edu.ctgu.Test4.PremiumCalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PremiumCalculatorTest.calculateInvalidCases" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mySeHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.ctgu.Test4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.edu.ctgu.Test4" />
+      <option name="MAIN_CLASS_NAME" value="cn.edu.ctgu.Test4.PremiumCalculatorTest" />
+      <option name="METHOD_NAME" value="calculateInvalidCases(double,int,java.lang.String,java.lang.String,int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PremiumCalculatorTest.calculateValidCases" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mySeHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.ctgu.Test4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.edu.ctgu.Test4" />
+      <option name="MAIN_CLASS_NAME" value="cn.edu.ctgu.Test4.PremiumCalculatorTest" />
+      <option name="METHOD_NAME" value="calculateValidCases(double,int,java.lang.String,java.lang.String,int,double)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TwoInteger_subtractTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mySeHomework" />
       <extension name="coverage">
@@ -436,22 +473,6 @@
       <option name="PACKAGE_NAME" value="cn.edu.ctgu.Test3" />
       <option name="MAIN_CLASS_NAME" value="cn.edu.ctgu.Test3.TwoInteger_subtractTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoInteger_subtractTest.sumInvalidCases" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mySeHomework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.edu.ctgu.Test3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.edu.ctgu.Test3" />
-      <option name="MAIN_CLASS_NAME" value="cn.edu.ctgu.Test3.TwoInteger_subtractTest" />
-      <option name="METHOD_NAME" value="sumInvalidCases(int,int)" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -471,45 +492,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoInteger_sumTest.sumInvalidCases" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mySeHomework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.edu.ctgu.Test3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.edu.ctgu.Test3" />
-      <option name="MAIN_CLASS_NAME" value="cn.edu.ctgu.Test3.TwoInteger_sumTest" />
-      <option name="METHOD_NAME" value="sumInvalidCases(int,int)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoInteger_sumTest.sumValidCases" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mySeHomework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.edu.ctgu.Test3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.edu.ctgu.Test3" />
-      <option name="MAIN_CLASS_NAME" value="cn.edu.ctgu.Test3.TwoInteger_sumTest" />
-      <option name="METHOD_NAME" value="sumValidCases(int,int,int)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PremiumCalculatorTest" />
+        <item itemvalue="JUnit.PremiumCalculatorTest.calculateValidCases" />
+        <item itemvalue="JUnit.PremiumCalculatorTest.calculateInvalidCases" />
         <item itemvalue="JUnit.TwoInteger_subtractTest" />
-        <item itemvalue="JUnit.TwoInteger_subtractTest.sumInvalidCases" />
         <item itemvalue="JUnit.TwoInteger_sumTest" />
-        <item itemvalue="JUnit.TwoInteger_sumTest.sumValidCases" />
-        <item itemvalue="JUnit.TwoInteger_sumTest.sumInvalidCases" />
       </list>
     </recent_temporary>
   </component>
@@ -536,7 +525,8 @@
       <workItem from="1616553690066" duration="14017000" />
       <workItem from="1616580282591" duration="6549000" />
       <workItem from="1617104161336" duration="5488000" />
-      <workItem from="1617156117804" duration="308000" />
+      <workItem from="1617156117804" duration="5041000" />
+      <workItem from="1617761255474" duration="3187000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1615959562477</created>
@@ -587,48 +577,63 @@
       <option name="project" value="LOCAL" />
       <updated>1616589987103</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="实验三">
+      <created>1617156451907</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1617156451908</updated>
+    </task>
+    <task id="LOCAL-00009" summary="实验三--描述文件更新">
+      <created>1617159338777</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1617159338777</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TwoInteger_sumTest_sumValidCasesWithMethodParam - 2021.03.30 at 20h 14m 13s.xml">
-      <configuration name="TwoInteger_sumTest.sumValidCasesWithMethodParam" configurationId="JUnit" />
+    <history-entry file="PremiumCalculatorTest_calculateValidCases - 2021.04.07 at 10h 39m 59s.xml">
+      <configuration name="PremiumCalculatorTest.calculateValidCases" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TwoInteger_sumTest_sumValidCasesWithMethodParam - 2021.03.30 at 20h 14m 25s.xml">
-      <configuration name="TwoInteger_sumTest.sumValidCasesWithMethodParam" configurationId="JUnit" />
+    <history-entry file="PremiumCalculatorTest_calculateValidCases - 2021.04.07 at 10h 40m 22s.xml">
+      <configuration name="PremiumCalculatorTest.calculateValidCases" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TwoInteger_sumTest - 2021.03.30 at 20h 15m 51s.xml">
-      <configuration name="TwoInteger_sumTest" configurationId="JUnit" />
+    <history-entry file="PremiumCalculatorTest_calculateValidCases - 2021.04.07 at 10h 42m 53s.xml">
+      <configuration name="PremiumCalculatorTest.calculateValidCases" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TwoInteger_sumTest_sumInvalidCases - 2021.03.30 at 21h 02m 31s.xml">
-      <configuration name="TwoInteger_sumTest.sumInvalidCases" configurationId="JUnit" />
+    <history-entry file="PremiumCalculatorTest_calculateValidCases - 2021.04.07 at 10h 43m 29s.xml">
+      <configuration name="PremiumCalculatorTest.calculateValidCases" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TwoInteger_sumTest_sumInvalidCases - 2021.03.30 at 21h 02m 57s.xml">
-      <configuration name="TwoInteger_sumTest.sumInvalidCases" configurationId="JUnit" />
+    <history-entry file="PremiumCalculatorTest_calculateValidCases - 2021.04.07 at 10h 44m 08s.xml">
+      <configuration name="PremiumCalculatorTest.calculateValidCases" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TwoInteger_sumTest_sumValidCases - 2021.03.30 at 21h 04m 17s.xml">
-      <configuration name="TwoInteger_sumTest.sumValidCases" configurationId="JUnit" />
+    <history-entry file="PremiumCalculatorTest_calculateValidCases - 2021.04.07 at 10h 44m 34s.xml">
+      <configuration name="PremiumCalculatorTest.calculateValidCases" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TwoInteger_sumTest - 2021.03.30 at 21h 04m 33s.xml">
-      <configuration name="TwoInteger_sumTest" configurationId="JUnit" />
+    <history-entry file="PremiumCalculatorTest_calculateValidCases - 2021.04.07 at 10h 46m 12s.xml">
+      <configuration name="PremiumCalculatorTest.calculateValidCases" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TwoInteger_subtractTest_sumInvalidCases - 2021.03.30 at 21h 25m 50s.xml">
-      <configuration name="TwoInteger_subtractTest.sumInvalidCases" configurationId="JUnit" />
+    <history-entry file="PremiumCalculatorTest_calculateValidCases - 2021.04.07 at 10h 47m 08s.xml">
+      <configuration name="PremiumCalculatorTest.calculateValidCases" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TwoInteger_subtractTest - 2021.03.30 at 21h 30m 43s.xml">
-      <configuration name="TwoInteger_subtractTest" configurationId="JUnit" />
+    <history-entry file="PremiumCalculatorTest_calculateValidCases - 2021.04.07 at 10h 48m 37s.xml">
+      <configuration name="PremiumCalculatorTest.calculateValidCases" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TwoInteger_subtractTest - 2021.03.30 at 21h 30m 51s.xml">
-      <configuration name="TwoInteger_subtractTest" configurationId="JUnit" />
+    <history-entry file="PremiumCalculatorTest_calculateValidCases - 2021.04.07 at 10h 50m 28s.xml">
+      <configuration name="PremiumCalculatorTest.calculateValidCases" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43248000" />
+    <option name="totallyTimeSpent" value="51168000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3299595" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22672065" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -637,7 +642,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932525" weight="0.27153283" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932525" visible="true" weight="0.24963504" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5518248" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -649,7 +654,7 @@
       <window_info anchor="bottom" id="Statistic" order="11" weight="0.43357664" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.22481751" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.2236842" />
       <window_info anchor="bottom" id="Inspection Results" order="15" weight="0.39124086" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -663,7 +668,7 @@
       <window_info anchor="right" id="Database" order="9" />
       <window_info anchor="right" id="Palette&#9;" order="10" />
       <window_info anchor="right" id="Theme Preview" order="11" />
-      <window_info anchor="right" id="Coverage" order="12" side_tool="true" weight="0.39338732" />
+      <window_info anchor="right" id="Coverage" order="12" side_tool="true" weight="0.3117409" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" weight="0.20580296" />
@@ -714,26 +719,22 @@
     <MESSAGE value="实验二代码规范化，报错功能统一测试" />
     <MESSAGE value="实验二部分代码测试用例修改" />
     <MESSAGE value="readme文件修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme文件修改" />
+    <MESSAGE value="实验三" />
+    <MESSAGE value="实验三--描述文件更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="实验三--描述文件更新" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/seproject$NextDateTest__1_.ic" NAME="NextDateTest (1) Coverage Results" MODIFIED="1615958587781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>cn.edu.ctgu.junitTest.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/seproject$ConfigurationTest_throw_DefaultValue_Date_when_key_not_exist__1_.ic" NAME="ConfigurationTest.throw_DefaultValue_Date_when_key_not_exist (1) Coverage Results" MODIFIED="1616588661078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>cn.edu.ctgu.Test2.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/seproject$NextDate.ic" NAME="NextDate Coverage Results" MODIFIED="1615364354494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>mySeHomework.homework1.*</FILTER>
+    <SUITE FILE_PATH="coverage/seproject$TwoInteger_sumTest.ic" NAME="TwoInteger_sumTest Coverage Results" MODIFIED="1617157911327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.edu.ctgu.Test3.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/seproject$ConfigurationTest_throw_DefaultValue_Integer_when_key_not_exist.ic" NAME="ConfigurationTest.throw_DefaultValue_Integer_when_key_not_exist Coverage Results" MODIFIED="1616588251996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>cn.edu.ctgu.Test2.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/seproject$TwoInteger_subtractTest.ic" NAME="TwoInteger_subtractTest Coverage Results" MODIFIED="1617111050044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/seproject$TwoInteger_subtractTest.ic" NAME="TwoInteger_subtractTest Coverage Results" MODIFIED="1617158250224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>cn.edu.ctgu.Test3.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/seproject$NextDateTest.ic" NAME="NextDateTest Coverage Results" MODIFIED="1615365040680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>mySeHomework.homework1.*</FILTER>
+    <SUITE FILE_PATH="coverage/seproject$PremiumCalculatorTest.ic" NAME="PremiumCalculatorTest Coverage Results" MODIFIED="1617764544257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.edu.ctgu.Test4.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/seproject$CommissionTest.ic" NAME="CommissionTest Coverage Results" MODIFIED="1615959107427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>cn.edu.ctgu.junitTest.*</FILTER>
@@ -747,6 +748,18 @@
     <SUITE FILE_PATH="coverage/seproject$junitTest_.ic" NAME="junitTest; Coverage Results" MODIFIED="1615364885081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>mySeHomework.homework1.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/seproject$NextDateTest__1_.ic" NAME="NextDateTest (1) Coverage Results" MODIFIED="1615958587781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.edu.ctgu.junitTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/seproject$ConfigurationTest_throw_DefaultValue_Date_when_key_not_exist__1_.ic" NAME="ConfigurationTest.throw_DefaultValue_Date_when_key_not_exist (1) Coverage Results" MODIFIED="1616588661078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cn.edu.ctgu.Test2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/seproject$NextDate.ic" NAME="NextDate Coverage Results" MODIFIED="1615364354494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>mySeHomework.homework1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/seproject$NextDateTest.ic" NAME="NextDateTest Coverage Results" MODIFIED="1615365040680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>mySeHomework.homework1.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/seproject$CommissionTest_paramCommission.ic" NAME="CommissionTest.paramCommission Coverage Results" MODIFIED="1615367304101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>cn.edu.ctgu.junitTest.*</FILTER>
     </SUITE>
@@ -755,13 +768,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom-new.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
@@ -771,25 +777,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resource/三角形健壮测试用例 (1).csv" />
     <entry file="file://$PROJECT_DIR$/src/test/resource/三角形健壮测试用例.csv">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resource/三角形弱一般等价类测试用例.csv">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resource/三角形最坏情况测试用例.csv">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test1/Commission.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -799,15 +805,15 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resource/naiveTestTriangle.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
       <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test1/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -817,9 +823,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resource/三角形一般边界测试用例.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="28">
           <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="15" />
@@ -830,16 +833,19 @@
           <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resource/三角形健壮性最坏情况测试用例.csv">
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resource/三角形健壮性最坏情况测试用例.csv">
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="56">
           <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
@@ -924,54 +930,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="112">
-            <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <first_editor relative-caret-position="56">
+            <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test3/TwoInteger_subtractTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test3/TwoInteger_subtract.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1708">
-          <caret line="67" column="36" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="336">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test3/TwoInteger_sum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        <state relative-caret-position="56">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test3/TwoInteger_sumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1848">
-          <caret line="72" column="5" selection-start-line="14" selection-start-column="3" selection-end-line="72" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test3/TwoIntegers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test3/TwoIntegersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        <state relative-caret-position="1680">
+          <caret line="66" column="12" selection-end-line="74" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -985,10 +978,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test3/TwoInteger_subtract.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test3/TwoIntegersTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        <state relative-caret-position="532">
+          <caret line="70" column="5" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="70" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test3/TwoInteger_subtractTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test3/TwoIntegers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/ctgu/Test4/PremiumCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/edu/ctgu/Test4/PremiumCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="83" column="2" lean-forward="true" selection-end-line="99" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
